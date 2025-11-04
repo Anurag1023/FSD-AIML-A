@@ -14,6 +14,7 @@ function getData() {
     console.log("Getting your data...");
     for (let i = 0; i < 1e8; i++) {} 
     return ["Mail", "Notifications", "Profile Info"];
+
 }
 
 function displayData(data) {
